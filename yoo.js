@@ -4,4 +4,3 @@ function main2() {
 
 main()
 main()
-main()
